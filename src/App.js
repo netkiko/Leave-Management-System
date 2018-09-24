@@ -3,16 +3,17 @@ import Table from './Table';
 import Form from './Form'
 
 //-----------------------------------
+//-----------------------------------
 // State
 //-----------------------------------
 class App extends Component {
     //state = {};
 
-    //state = {
-    //    characters: []
-    //};
-
     state = {
+        characters: []
+    };
+
+    /* state = {
         characters: [
             {
                 'name': 'Charlie',
@@ -31,7 +32,7 @@ class App extends Component {
                 'job': 'Bartender'
             }
         ]
-    };
+    }; */
 
     removeCharacter = index => {
         const { characters } = this.state;

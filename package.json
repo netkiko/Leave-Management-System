@@ -1,13 +1,4 @@
 {
-<<<<<<< HEAD
-  "name": "my-app",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "react": "^16.5.1",
-    "react-dom": "^16.5.1",
-    "react-scripts": "1.1.5"
-=======
   "name": "react-redux",
   "version": "0.1.0",
   "private": true,
@@ -23,7 +14,6 @@
     "react-router-dom": "^4.3.1",
     "react-scripts": "1.1.5",
     "redux": "^4.0.0"
->>>>>>> 4b904db2828b8a2d0efa0f6ccbe6301267b06952
   },
   "scripts": {
     "start": "react-scripts start",
@@ -31,8 +21,4 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 4b904db2828b8a2d0efa0f6ccbe6301267b06952
